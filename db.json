@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Clients": [
+    { "Name": "Martin Andrews", "Email": "martandy90@gmail.com", "id": 23409, "age": 25 },
+    { "Name": "Steph Curry", "Email": "curryball88@gmail.com", "id": 23509, "age": 31 },
+    { "Name": "Dean Wiggins", "Email": "deanbean12@gmail.com", "id": 28723, "age": 29" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
